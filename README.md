@@ -14,5 +14,3 @@
   
   ![My Skills](https://skillicons.dev/icons?i=kotlin,firebase,figma,androidstudio,idea,vscode&perline=8)
 </div>
-
-![BrunoDian ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=BrunoDian&custom_title=BrunoDian%20Contribution%20Graph&theme=react-dark&bg_color=0D1117&hide_border=true&line=7490ac&point=d8dee9)
